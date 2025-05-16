@@ -20,7 +20,7 @@
 - PostgreSQL 12+ (создать БД с именем `webapp`)
 
   bash
-  git clone https://github.com/gaminv/teachers_preferences.git
+  git clone https://github.com/CodeMaestro27/teachers_preferences/tree/main.git
    cd teachers_preferences
    
    Запуск бэкенда
