@@ -8,7 +8,7 @@
 - 🧠 Backend: Java + Spring Boot
 - 🎨 Frontend: React.js
 - 💾 Database: PostgreSQL / H2
-- 🔐 Security: Spring Security + JWT (если применимо)
+- 🔐 Security: Spring Security + JWT 
 - 🧾 Export: Apache POI (Excel)
 - 🌐 API: RESTful
   
