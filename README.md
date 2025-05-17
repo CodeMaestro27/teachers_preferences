@@ -32,7 +32,9 @@
 
 
 psql -U postgres
+
 CREATE DATABASE webapp;
+
 \q
  
 3. Запустить:
