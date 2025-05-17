@@ -30,17 +30,10 @@
 
 Подключись к PostgreSQL:
 
+
 psql -U postgres
-
-Введи пароль (в твоём случае это 1234, если не менял).
-
-Создай базу:
- 
- CREATE DATABASE webapp;
- 
-Проверь, что база создана: \l
-
-Выйди: \q
+CREATE DATABASE webapp;
+\q
  
 3. Запустить:
 ```bash
